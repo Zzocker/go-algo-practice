@@ -1,6 +1,6 @@
 # 0-1 Knapsack Problem
 
-- Subset Sum
+- [Subset Sum](subsetSum/README.md)
 - Equal Sum Partition
 - Count of Subset Sum
 - Minimum Subset Sum Difference
