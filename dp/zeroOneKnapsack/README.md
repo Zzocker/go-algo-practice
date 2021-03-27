@@ -3,7 +3,7 @@
 - [Subset Sum](subsetSum/README.md)
 - [Equal Sum Partition](equalSumPartition/README.md)
 - [Count of Subset Sum](countOfSubsetSum/README.md)
-- Minimum Subset Sum Difference
+- [Minimum Subset Sum Difference](minSubsetSumDiff/README.md)
 - Target Sum
 - Number of subset with given difference 
 
